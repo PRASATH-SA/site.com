@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Prasath from Karaikal<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Web development<br>- ⚡ In my free time I Desgin websites</p>
 
 ###
 
